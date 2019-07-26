@@ -34,6 +34,7 @@ class  Student extends Person{
     this.previousBackground = basethree.previousBackground;
     this.classname = basethree.classname;
     this.favSubjects = basethree.favSubjects;
+    this.grade = basethree.grade;
 }
 
 listSubjects(){ 
